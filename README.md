@@ -5,4 +5,4 @@ Authentication: Forms Authentication (cookie)
 
 # web-site-c-
 Đồ án kết thúc môn học
-Lập trình website đọc báo sử dụng ngôn ngữ C# .NET
+Lập trình website đọc tin tức sử dụng ngôn ngữ C# .NET
